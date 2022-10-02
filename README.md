@@ -13,4 +13,4 @@ If you are interested in helping contribute, please take a look at our [Contribu
 
 # Script List:
 
-- 
+- **AWS-IP.py** - Get AWS IP range for a sepcifc IP to whilist the AWS service in prviate network
