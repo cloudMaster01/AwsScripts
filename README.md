@@ -17,4 +17,6 @@ If you are interested in helping contribute, please take a look at our [Contribu
 - **aws-cli-mfa.sh** - Automate MFA credentials generation and setup in AWS CLI
 - **dynamoDb-delete-all-items.py** - Delete all items in a specific DynamoDb table
 - **ec2-with-security-group.sh** - Find all the EC2 instances using a particular security group using the security group ID.
-
+- **create_iam_user.py** - Creates an IAM user.
+- **rotated_iam_user_access_keys.py** -  Rotate IAM access keys for an IAM user.
+- **ec2_unused_security_group.py** - Find security groups that are not used by your ec2 instances.
